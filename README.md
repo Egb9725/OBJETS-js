@@ -1,4 +1,5 @@
-#Contexte
+Contexte
+
 Vous avez été engagé comme développeur de logiciels dans une bibliothèque locale. Votre première tâche consiste à créer un système de catalogue simple pour garder une trace de tous les livres.
 
 Chaque livre de la bibliothèque possède :
@@ -8,7 +9,7 @@ un auteur,
 une année de publication
 et une valeur booléenne indiquant s'il est actuellement emprunté ou non.
 
-#Challenge
+Challenge
 
 Créez un objet JavaScript pour représenter un livre.
 
